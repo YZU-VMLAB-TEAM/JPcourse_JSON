@@ -1,0 +1,53 @@
+{
+	"course_length":2,
+	"courses":
+	[
+		{
+			"name":"course_1",
+			"youtube_id":"QKm-SOOMC4c",
+			"clips_len":3,
+			"clips"	:	
+			[
+				{
+					"time"	:	"1:30",
+					"length":	"0:31",
+					"ques"	:	"ありがとうございます",
+					"ans"	:	"ありがとうございます"
+				},
+				{
+					"time"	:	"2:15",
+					"length":	"0:19",
+					"ques"	:	"こんにちは",
+					"ans"	:	"こんにちは"
+				},
+				{
+					"time"	:	"3:00",
+					"length":	"0:40",
+					"ques"	:	"おはよう",
+					"ans"	:	"おはよう"
+				}
+			]
+		},
+
+		{
+			"name":"course_2",
+			"youtube_id":"80v9w_z8k6g",
+			"clips_len":2,
+			"clips"	:	
+			[
+				{
+					"time"	:	"0:50",
+					"length":	"0:11",
+					"ans"	:	"いらっしゃいませ",
+					"ans"	:	"いらっしゃいませ"
+				},
+				{
+					"time"	:	"1:05",
+					"length":	"0:22",
+					"ans"	:	"お帰り",
+					"ans"	:	"お帰り"
+				}
+			]
+		}
+	]
+}
