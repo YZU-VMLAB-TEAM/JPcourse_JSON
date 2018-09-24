@@ -9,14 +9,14 @@
 			"clips"	:	
 			[
 				{
-					"time"	:	"1",
-					"length":	"4",
+					"time"	:	"0m1s",
+					"length":	"0m4s",
 					"ques"	:	"ここはどこですか？",
 					"ans"	:	"教室です"
 				},
 				{
-					"time"	:	"8",
-					"length":	"6",
+					"time"	:	"0m8s",
+					"length":	"0m6s",
 					"ques"	:	"この人は何をしていますか？",
 					"ans"	:	"勉強しています"
 				}
@@ -30,20 +30,20 @@
 			"clips"	:	
 			[
 				{
-					"time"	:	"0",
-					"length":	"3",
+					"time"	:	"0s",
+					"length":	"3s",
 					"ques"	:	"ここはどこですか？",
 					"ans"	:	"図書館です"
 				},
 				{
-					"time"	:	"4",
-					"length":	"5",
+					"time"	:	"4s",
+					"length":	"5s",
 					"ques"	:	"図書館は何時から何時までですか？",
 					"ans"	:	"8時から22時までです"
 				},
 				{
-					"time"	:	"10",
-					"length":	"4",
+					"time"	:	"10s",
+					"length":	"4s",
 					"ques"	:	"休みは何曜日ですか？",
 					"ans"	:	"です"
 				}
@@ -57,20 +57,20 @@
 			"clips"	:	
 			[
 				{
-					"time"	:	"0",
-					"length":	"3",
+					"time"	:	"0s",
+					"length":	"3s",
 					"ques"	:	"ここはどこですか？",
 					"ans"	:	"コンビニです"
 				},
 				{
-					"time"	:	"5",
-					"length":	"4",
+					"time"	:	"5s",
+					"length":	"4s",
 					"ques"	:	"この人は何を買いましたか？",
 					"ans"	:	"パンを買いました"
 				},
 				{
-					"time"	:	"11",
-					"length":	"4",
+					"time"	:	"11s",
+					"length":	"4s",
 					"ques"	:	"パンはいくらですか？",
 					"ans"	:	"30円です"
 				}
