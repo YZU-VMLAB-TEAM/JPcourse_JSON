@@ -11,8 +11,8 @@
 				{
 					"time":	5,
 					"ques"	:	"ここはどこですか？",
-					"start_nosound":0,
-					"end_nosound":0,
+					"start_nosound":4,
+					"end_nosound":5,
 					"ans_len":4,
 					"ans"	:	[
 									"教室です",
@@ -195,7 +195,7 @@
 		{
 			"name":"キャンパス案内",
 			"youtube_id":"l_VrCgbRS9Q",
-			"clips_len":1,
+			"clips_len":2,
 			"clips"	:	
 			[
 				{
@@ -207,6 +207,16 @@
 					"ans"	:	[
 									"元智大学",
 									"おはよう"
+								]
+				},
+				{
+					"time":	6,
+					"ques"	:	"この店は 何の店ですか？",
+					"start_nosound":0,
+					"end_nosound":0,
+					"ans_len":1,
+					"ans"	:	[
+									"朝ごはんの店です"
 								]
 				}
 			]
