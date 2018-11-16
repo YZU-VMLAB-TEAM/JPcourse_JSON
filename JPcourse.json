@@ -22,7 +22,7 @@
 								]
 				},
 				{
-					"time":	9,
+					"time":	14,
 					"ques"	:	"この人は何をしていますか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -54,7 +54,7 @@
 								]
 				},
 				{
-					"time":	6,
+					"time":	9,
 					"ques"	:	"図書館は何時から何時までですか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -65,7 +65,7 @@
 								]
 				},
 				{
-					"time":	5,
+					"time":	14,
 					"ques"	:	"休みは何曜日ですか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -95,7 +95,7 @@
 								]
 				},
 				{
-					"time":	6,
+					"time":	9,
 					"ques"	:	"この人は何を買いましたか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -106,7 +106,7 @@
 								]
 				},
 				{
-					"time":	5,
+					"time":	14,
 					"ques"	:	"パンはいくらですか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -137,7 +137,7 @@
 								]
 				},
 				{
-					"time":	8,
+					"time":	14,
 					"ques"	:	"いろいろな種類がありますね。Bさんは、どんな味が好きですか？？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -149,7 +149,7 @@
 								]
 				},
 				{
-					"time":	24,
+					"time":	38,
 					"ques"	:	"Bさん、何かほかに買いたいものはありますか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -181,7 +181,7 @@
 								]
 				},
 				{
-					"time":	6,
+					"time":	8,
 					"ques"	:	"この店は 何の店ですか？",
 					"start_nosound":0,
 					"end_nosound":0,
@@ -199,7 +199,7 @@
 			"clips"	:	
 			[
 				{
-					"time":	2,
+					"time":	1,
 					"ques"	:"ここは元智大学です。",
 					"start_nosound":1,
 					"end_nosound":2,
@@ -210,7 +210,7 @@
 								]
 				},
 				{
-					"time":	10,
+					"time":	11,
 					"ques"	:	"ここはどこですか？",
 					"start_nosound":11,
 					"end_nosound":14,
@@ -220,7 +220,7 @@
 								]
 				},
 				{
-					"time":	10,
+					"time":	23,
 					"ques"	:	"ここはどこですか？",
 					"start_nosound":23,
 					"end_nosound":24,
