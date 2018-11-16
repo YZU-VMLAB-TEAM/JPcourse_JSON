@@ -201,8 +201,8 @@
 				{
 					"time":	2,
 					"ques"	:"ここは元智大学です。",
-					"start_nosound":2,
-					"end_nosound":3,
+					"start_nosound":1,
+					"end_nosound":2,
 					"ans_len":2,
 					"ans"	:	[
 									"元智大学",
